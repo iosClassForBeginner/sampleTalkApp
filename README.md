@@ -20,11 +20,10 @@
 
 #### 0, アプリ開発準備
 > 0-1. Auto Layout, Size ClassesをOFFにします
-<div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/sampleDragApp/blob/master/Assets/0.gif" /></div>
+<div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/sampleTalkApp/blob/master/Assets/0.gif" /></div>
 
 #### 1, Storyboardで、アプリのデザイン
 > 1-1. main.storyboardを選択し、UI部品からUItexyfield, UIbuttonを配置します。(ドラッグ&ドロップ)
-<div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/sampleDragApp/blob/master/Assets/1.gif" /></div>
 
 > 1-2. StoryboardのUItexyfieldを、ViewController.swiftに紐づけます
 
@@ -34,6 +33,9 @@
 - 以下コードブロックを記入
   
 ```Swift
+import UIKit
+// importが必要
+import AVFoundation
 
 class ViewController: UIViewController, UITextFieldDelegate {
 

@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  sampleTalkApp
 //
-//  Created by 尾上宗玄 on 2016/10/30.
+//  Created by Muneharu Onoue on 2016/10/30.
 //  Copyright © 2016年 Muneharu Onoue. All rights reserved.
 //
 
