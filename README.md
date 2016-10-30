@@ -1,5 +1,6 @@
  
 # 第12回: １時間でiPhoneアプリを作ろう
+## 文字読み上げアプリ開発
 
   <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/sampleTalkApp/blob/master/Assets/sample.png" /></div>
   
